@@ -3,8 +3,11 @@
 # February 16, 2022
 
 #----------------------------------------------------------------------------------------
+#Description
+#----------------------------------------------------------------------------------------
+#This shows one customiztion of the code from Table1_Template to make a table 1 for a
+# different data set
 
-#This shows
 f_format_cell <- function(data,varName,value=NA,type="prop"){
   if(type=="prop"){
     n_num <- sum(data[,varName]==value,na.rm=TRUE)
