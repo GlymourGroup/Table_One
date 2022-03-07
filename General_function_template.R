@@ -1,3 +1,6 @@
+#----------------------------------------------------------------------------------------
+# This file just describes the general features of a function
+#----------------------------------------------------------------------------------------
 #Function definition
 f_function <- function(reqVar1,
                        reqVar2,
