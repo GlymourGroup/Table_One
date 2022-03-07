@@ -7,7 +7,7 @@ f_function <- function(reqVar1,
   combined_number <- reqVar1 + reqVar2
   combined_string <- paste0(optVar1,optVar2)
 
-  #Return something
+  #Return something, in this case a list of the two new variables we created
   result <- list(
     number = combined_number,
     string  = combined_string
