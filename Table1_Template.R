@@ -1,6 +1,11 @@
+#----------------------------------------------------------------------------------------
 # Table 1 Template
 # Scott Zimmerman & Kristina Van Dang
 # February 16, 2022
+#----------------------------------------------------------------------------------------
+# Description: Function templates for automatically making customized table 1s
+#----------------------------------------------------------------------------------------
+
 library(tidyverse)
 library(dplyr)
 
