@@ -5,7 +5,6 @@
 #----------------------------------------------------------------------------------------
 # Description: Function templates for automatically making customized table 1s
 #----------------------------------------------------------------------------------------
-
 library(tidyverse)
 library(dplyr)
 
